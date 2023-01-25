@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 109.0.0.0,,,2023-01-25 14:34:58,2023-01-25 14:35:05,"6,131s",PASSED
+,,,,,,,
+Test Cases/New Test Case feri kontakit 2,Chrome 109.0.0.0,,,2023-01-25 14:34:59,2023-01-25 14:35:05,"5,954s",PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-25 14:34:59,2023-01-25 14:35:01,"2,184s",PASSED
+"navigateToUrl(""https://feri.um.si/"")",Chrome 109.0.0.0,,,2023-01-25 14:35:01,2023-01-25 14:35:02,"0,893s",PASSED
+"click(findTestObject(""Object Repository/Page_FERI/a_KONTAKTI""))",Chrome 109.0.0.0,,,2023-01-25 14:35:02,2023-01-25 14:35:03,"1,112s",PASSED
+"setText(findTestObject(""Object Repository/Page_FERI - Kontakti/input""), ""lucija"")",Chrome 109.0.0.0,,,2023-01-25 14:35:03,2023-01-25 14:35:04,"0,848s",PASSED
+closeBrowser(),Chrome 109.0.0.0,,,2023-01-25 14:35:04,2023-01-25 14:35:05,"0,646s",PASSED
