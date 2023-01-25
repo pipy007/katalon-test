@@ -25,5 +25,5 @@ WebUI.click(findTestObject('Object Repository/Page_FERI/a_KONTAKTI'))
 
 WebUI.setText(findTestObject('Object Repository/Page_FERI - Kontakti/input'), 'lucija')
 
-WebUI.click(findTestObject('Object Repository/Page_FERI - Kontakti/span_prikai'))
+WebUI.closeBrowser()
 
